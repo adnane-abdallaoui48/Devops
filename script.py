@@ -1,2 +1,3 @@
-a = 5
-print(a)
+print("Adnane")
+1 / 0  # division par zéro = erreur
+
